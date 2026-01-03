@@ -1,0 +1,12 @@
+﻿customer_id,full_name,email,country,signup_date
+C001,Rahul Sharma,rahul@gmail.com,India,15-01-2022
+C002,Anita Verma,anita@gmail.com,India,10-03-2022
+C003,John Smith,john.smith@email.com,USA,05-11-2021
+C004,Meera Nair,,India,21-07-2022
+C005,David Lee,david.lee@email.com,UK,15-08-2022
+C006,Amit Patel,amit.patel@gmail.com,India,30-09-2022
+C007,Sarah Brown,sarah.b@email.com,USA,12-10-2022
+C008,Rajesh Kumar,rajesh.k@gmail.com,India,05-01-2023
+C009,Emily Davis,emily.d@email.com,Canada,18-02-2023
+C010,Arjun Reddy,arjun.r@gmail.com,India,01-03-2023
+C002,Anita Verma,anita@gmail.com,India,10-03-2022
